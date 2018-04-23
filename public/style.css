@@ -1,0 +1,30 @@
+#content{
+    height: 70%;
+    width: 70%;
+    align-content: center;
+}
+#header{
+    height: 20px;
+    background-color: aliceblue;
+}
+#window{
+    height: 300px;
+    background-color: azure;
+}
+#handle{
+    height: 20px;
+    background-color: coral;
+}
+#message{
+    height: 50px;
+    background-color: cornsilk;
+    
+}
+#send{
+    width: 100px;
+    height: 20px;
+    background-color: beige;
+}
+.width-h{
+    width: 600px;
+}
